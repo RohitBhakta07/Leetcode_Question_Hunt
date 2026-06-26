@@ -1,4 +1,4 @@
-# 1. Two Sum
+# 4. Median Of Two Sorted Arrays
 
 ## Problem Statement
 
